@@ -31,14 +31,8 @@ Install Pygame using pip:
 ```bash
 pip install pygame
 
-▶️ Run the Game
+▶️ Run the Game:
 python main.py
-
-🎥 Demo Video:
-📽️ Click here to watch the 2-minute demo video
-
-📄 Project Report:
-📝 Click here to view the full project report (PDF)
 
 🧑‍🤝‍🧑 Team Members
 Muhammad Minhal Mahmud (K21-3618)
