@@ -34,7 +34,7 @@ pip install pygame
 ▶️ Run the Game:
 python main.py
 
-
+` ``` `
 
 
 
