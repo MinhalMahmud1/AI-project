@@ -13,12 +13,6 @@ This project is a Python-based implementation of the board game **Halma**, enhan
 - Configurable AI difficulty by adjusting the search depth
 - Smooth turn handling and win condition logic
 
-## 🧠 AI Strategy
-The AI evaluates moves using a custom heuristic:
-- **Proximity to goal**: Rewards progress toward the opponent’s starting zone.
-- **Zone control**: Prefers blocking enemy paths.
-- **Piece activity**: Penalizes stagnant pieces.
-
 ## 🛠 How to Run
 
 ### ✅ Requirements
@@ -30,17 +24,15 @@ Install Pygame using pip:
 
 ```bash
 pip install pygame
-
-▶️ Run the Game:
+▶️ Run the Game
 python main.py
 
-` ``` `
+🎥 Demo Video
+📽️ Click here to watch the 2-minute demo video
+(Voiceover provided by a team member as per submission guidelines.)
 
-
-
-
-
-
+📄 Project Report
+📝 Click here to view the full project report (PDF)
 
 🧑‍🤝‍🧑 Team Members
 Muhammad Minhal Mahmud (K21-3618)
@@ -48,7 +40,7 @@ Huzaifa Farraz (K21-3602)
 Muhammad Abbas (K21-3592)
 Arham Asher (K21-3578)
 
-📚 References:
+📚 References
 Russell, S., & Norvig, P. Artificial Intelligence: A Modern Approach
 Pygame Documentation
 Online Halma rules and strategy guides
