@@ -34,6 +34,10 @@ pip install pygame
 ▶️ Run the Game:
 python main.py
 
+
+
+
+
 🧑‍🤝‍🧑 Team Members
 Muhammad Minhal Mahmud (K21-3618)
 Huzaifa Farraz (K21-3602)
